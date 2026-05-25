@@ -2,7 +2,7 @@
 
 A fully-featured **Library Management System** built with **C# and EF Core**, demonstrating clean architecture, database design, data seeding, and real-world business logic using LINQ.
 
----
+----
 
 ## 🚀 Tech Stack
 
