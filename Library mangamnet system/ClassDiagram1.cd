@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Library_mangamnet_system.entites.Baseentity" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>entites\Baseentity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_mangamnet_system.entites.Book" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAkAAgAAIQAAAAAAAAAAQABAAAAAACAA=</HashCode>
+      <FileName>entites\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_mangamnet_system.entites.Category" Collapsed="true">
+    <Position X="17.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>entites\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_mangamnet_system.entites.Author" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>entites\Author.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_mangamnet_system.entites.Member" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACIAAAAAAAAAQAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>entites\Member.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_mangamnet_system.entites.Loan" Collapsed="true">
+    <Position X="19.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACAAEAAAAACAAAAAAAQAAQAAEAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>entites\Loan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_mangamnet_system.entites.Fine" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAEBAAAAAAAAAAAAACAAAAAAAAABABAAAAAAAA=</HashCode>
+      <FileName>entites\Fine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_mangamnet_system.entites.Memberloan" Collapsed="true">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAQAIAIAAAAAAAAAQQAAAAAAAAAACABAAAAAAAA=</HashCode>
+      <FileName>entites\Memberloan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
