@@ -14,7 +14,7 @@ A fully-featured **Library Management System** built with **C# and EF Core**, de
 | **LINQ** | Data querying & manipulation |
 | **JSON** | Data seeding source files |
 
----
+----
 
 ## 🏗️ Project Structure
 
